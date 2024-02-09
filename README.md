@@ -1,5 +1,6 @@
 # Note Expert
 Aplicação para criação de notas com áudio ou texto utilizando React e Tailwind
+<br>
 A aplicação possui as seguintes features:
 - Criar uma nota através da captura de áudio
 - Criar uma nota através de entrada de texto
