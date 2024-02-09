@@ -7,7 +7,7 @@ A aplicação possui as seguintes features:
 - Apagar notas
 - Buscar notas criadas
 - Data da criação da nota
-- Reponsivo
+- Responsivo
 
   
 ![Thumb](https://github.com/gui-akinyele/Note-Expert/assets/74839828/907ff3f3-fea6-4879-8ecd-6f9dd57bbbe1)
